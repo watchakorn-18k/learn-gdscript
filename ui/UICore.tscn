@@ -26,6 +26,9 @@ mouse_filter = 2
 
 [node name="WelcomeScreen" parent="Pages" instance=ExtResource( 1 )]
 mouse_filter = 2
+__meta__ = {
+"_edit_horizontal_guides_": [ 1060.0 ]
+}
 
 [node name="SettingsScreen" type="MarginContainer" parent="Pages"]
 visible = false
